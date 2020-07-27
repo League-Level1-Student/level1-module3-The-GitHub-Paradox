@@ -52,6 +52,7 @@ p.add(b);
 p.add(b1);
 b.addActionListener(this);
 b1.addActionListener(this);
+
 }
 
 	/* Use this method to add album covers to your Panel. */
